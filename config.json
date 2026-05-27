@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchferify",
+        "uuid": 10911121,
+        "checksum": "cfrjfr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
